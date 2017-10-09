@@ -1,0 +1,72 @@
+{
+    "result": 1,
+    "errMsg": "OK",
+    "configs": [
+        {
+            "name": "key_lastVer",
+            "value": "16",
+            "type": "0",
+            "desc": ""
+        },
+        {
+            "name": "updateTime",
+            "value": "2017-10-01",
+            "type": "0",
+            "desc": ""
+        },
+        {
+            "name": "lastVersion",
+            "value": "2.0.0",
+            "type": "0",
+            "desc": ""
+        },
+        {
+            "name": "lastAlert",
+            "value": "",
+            "type": "0",
+            "desc": ""
+        },
+        {
+            "name": "alertID",
+            "value": "1",
+            "type": "0",
+            "desc": ""
+        },
+        {
+            "name": "canRate",
+            "value": "0",
+            "type": "0",
+            "desc": ""
+        },
+        {
+            "name": "canTryYear",
+            "value": "1",
+            "type": "0",
+            "desc": ""
+        },
+        {
+            "name": "noWeekly",
+            "value": "1",
+            "type": "0",
+            "desc": ""
+        },
+        {
+            "name": "verifyUrl",
+            "value": "https://letsvalid.com/take/verify/index.php",
+            "type": "0",
+            "desc": ""
+        },
+        {
+            "name": "userinitFrom",
+            "value": "https://letsvalid.com/take/userinit/index.php",
+            "type": "0",
+            "desc": ""
+        },
+        {
+            "name": "checkReceipt",
+            "value": "0",
+            "type": "0",
+            "desc": ""
+        }
+    ]
+}
